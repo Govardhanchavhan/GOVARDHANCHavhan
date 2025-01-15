@@ -1,11 +1,19 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Govardhan Chavhan
 =========================================================================================================================================
 
-IT HR Enthusiast
+IT HR Enthusiast-Professional
 ----------------
 
-Aspiring Data Analyst | IT HR Professional with Over a Decade of Experience | Passionate About Data Science & Analytics I am a seasoned HR professional with over 11.5 years of experience in IT recruitment and HR processes, complemented by a strong technical foundation in Electronics and Telecommunication Engineering (EXTC). My transition into the field of data analytics stems from a deep passion for leveraging data to drive strategic decisions and enhance business outcomes. Having honed my skills in Advanced Excel, Power BI, Python, MySQL, and EDA (Exploratory Data Analysis), I bring a unique blend of HR expertise and data-driven insights to the table. Currently advancing my knowledge in Machine Learning (ML) and Deep Learning (DL), I am committed to mastering the art of predictive analytics and creating impactful visualizations that tell compelling stories through data. My professional journey is guided by the vision of integrating analytics into HR practices to optimize processes, enhance decision-making, and contribute to the broader organizational strategy. Equipped with an MBA, I possess the business acumen to align analytics initiatives with organizational goals. Key Skills & Tools: Analytics: Exploratory Data Analysis (EDA), Predictive Analytics Tools: Advanced Excel, Power BI, Python, SQL/MySQL Special Interests: Machine Learning (ML), Deep Learning (DL), Data Visualization
+**Aspiring Data Analyst | IT HR Professional | Passionate About Data Science & Analytics**  
 
+With over 3.5 years of experience in IT recruitment and HR processes and a technical foundation in Electronics and Telecommunication Engineering, I am driven to integrate data-driven insights into strategic business decisions. Proficient in Advanced Excel, Power BI, Python, MySQL, and EDA, I am currently expanding my expertise in Machine Learning and Deep Learning to master predictive analytics and impactful data visualization.  
+
+Backed by an MBA and strong business acumen, I aim to bridge the gap between analytics and HR practices to optimize processes and contribute to organizational success.  
+
+**Key Skills:**  
+- **Analytics:** EDA, Predictive Analytics  
+- **Tools:** Advanced Excel, Power BI, Python, SQL/MySQL  
+- **Focus Areas:** Machine Learning, Deep Learning, Data Visualization
 * 🌍  I'm based in india maharashtra
 * ✉️  You can contact me at [chavhangovardhan97@gmail.com](mailto:chavhangovardhan97@gmail.com)
 * 🚀  I'm currently working on [DREAM WITH DATA TRAINING RESEARCH & DEVELOPMENT CENTER](http://https://dreamwithdata.in)
