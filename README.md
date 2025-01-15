@@ -20,14 +20,24 @@ Aspiring Data Analyst | IT HR Professional with Over a Decade of Experience | Pa
 </p>
 
 
-*    Key Skills:
-📊 Advanced Excel (Microsoft Excel Logo)
-📈 Power BI (Power BI Logo)
-🐍 Python (Python Logo)
-🔍 SQL/MySQL (SQL/MySQL Logo)
+### Socials
 
-*   Special Interests:
-🤖 Machine Learning (ML)
-🧠 Deep Learning (DL)
-📊 Data Visualization
-  
+<p align="left"> <a href="https://www.facebook.com/https://www.facebook.com/govardhan.chavhan.779/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/govardhanchavhan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/tech_er.govardhan/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/govardhan-chavhan-35124a157/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/govardhanchavhan"><img src="https://github-readme-stats.vercel.app/api?username=govardhanchavhan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="govardhanchavhan's GitHub stats" /></a>
+
+<a href="http://www.github.com/govardhanchavhan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=govardhanchavhan&stroke=facc15&background=0f172a&ring=0891b2&fire=0891b2&currStreakNum=facc15&currStreakLabel=0891b2&sideNums=facc15&sideLabels=facc15&dates=facc15&hide_border=true" /></a>
+
+<a href="http://www.github.com/govardhanchavhan"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=govardhanchavhan&bg_color=0f172a&color=facc15&line=0891b2&point=facc15&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/govardhanchavhan/My-Notes-DAMy-Notes-DA" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=govardhanchavhan&repo=My-Notes-DAMy-Notes-DA&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/govardhanchavhan/My_DA_Journey" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=govardhanchavhan&repo=My_DA_Journey&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/govardhanchavhan/Govardhanchavhan" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=govardhanchavhan&repo=Govardhanchavhan&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/govardhanchavhan/NUMPY---DATA-ANALYST" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=govardhanchavhan&repo=NUMPY---DATA-ANALYST&title_color=0891b2&text_color=facc15&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
