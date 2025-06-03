@@ -16,7 +16,7 @@ Backed by an MBA and strong business acumen, I aim to bridge the gap between ana
 - **Focus Areas:** Machine Learning, Deep Learning, Data Visualization
 * 🌍  I'm based in india maharashtra
 * ✉️  You can contact me at [chavhangovardhan97@gmail.com](mailto:chavhangovardhan97@gmail.com)
-* 🚀  I'm currently working on [DREAM WITH DATA TRAINING RESEARCH & DEVELOPMENT CENTER](http://https://dreamwithdata.in)
+
 * 🧠  I'm learning AI ML project
 * 🤝  I'm open to collaborating on dreamwithdata
 
